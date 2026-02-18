@@ -18,4 +18,3 @@ This keeps the repository clean and tracks only the important code and documenta
 
 ---
 
-*Script Done By SAK*
